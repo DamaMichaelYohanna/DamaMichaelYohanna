@@ -14,6 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Him/he
 - ⚡ Fun fact: The world is actually a small place
 
+<br><br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dominicOT" alt="dominicOT" /></a> </p>
+
+<br>
+
+## Github Stat ⚙️
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominicOT)](https://github.com/dominicOT/github-readme-stats)   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dominicOT&" alt="Dominic Oladapo-Tonade" />
+
+<br>
+
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 </a> 
