@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: The world is actually a small place
 
 <br><br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dominicOT" alt="dominicOT" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DamaMichaelYohanna" alt="DamaMichaelYohanna" /></a> </p>
 
 <br>
 
 ## Github Stat ⚙️
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominicOT)](https://github.com/dominicOT/github-readme-stats)   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dominicOT&" alt="Dominic Oladapo-Tonade" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamaMichaelYohanna)](https://github.com/DamaMichaelYohanna/github-readme-stats)   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DamaMichaelYohanna&" alt="DamaMichaelYohanna" />
 
 <br>
 
